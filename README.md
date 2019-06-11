@@ -1,10 +1,10 @@
 # petal
-succulent music game
+Succulent music game
 
 ## Roles
-Ian Rios: Full-Stack/DevOps
-Jarod Wylie: Full-Stack
-Kseniya Verenich: ?
+- Ian Rios: Full-Stack/DevOps
+- Jarod Wylie: Full-Stack
+- Kseniya Verenich: ?
 
 ## [All mvp info](https://drive.google.com/drive/folders/1lhBCW_mNpiwtc0wLnDQg5TSIao4CdLQ1)
 - [MVP content](https://docs.google.com/spreadsheets/d/1cNn9rEBC4Yyr0hY-JBhoS3-YmaG7yOCaUWy4dFMEPFs/edit?usp=drive_web&ouid=102194493261242159363)
